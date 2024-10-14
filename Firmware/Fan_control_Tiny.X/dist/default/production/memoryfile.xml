@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/Fan_control_Tiny.X.production.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>4096</length>                 
+      <used>1206</used>                     
+      <free>2890</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>256</length>                 
+      <used>11</used>                     
+      <free>245</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
